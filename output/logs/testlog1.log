@@ -1,0 +1,1385 @@
+2022-01-11 21:23:19,917 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:23:33,687 [main] INFO logger_File - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-11 21:24:10,279 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:24:15,595 [main] INFO logger_File - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-11 21:26:45,833 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:26:50,654 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PENDING
+2022-01-11 21:27:19,072 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:27:23,877 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-11 21:32:33,961 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:32:38,822 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-11 21:33:59,062 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-11 21:34:04,419 [main] INFO logger_File - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-12 12:00:48,418 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:00:53,029 [main] INFO logger_File - Text verified!
+2022-01-12 12:00:54,420 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:05:11,857 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:05:16,015 [main] INFO logger_File - Text verified!
+2022-01-12 12:05:17,591 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:09:24,277 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:09:28,527 [main] INFO logger_File - Text verified!
+2022-01-12 12:09:29,978 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:13:44,035 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:13:47,588 [main] INFO logger_File - Text verified!
+2022-01-12 12:13:48,967 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:30:35,691 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:30:39,309 [main] INFO logger_File - Text verified!
+2022-01-12 12:30:40,741 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:40:53,837 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:40:57,240 [main] INFO logger_File - Text verified!
+2022-01-12 12:40:58,649 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 12:42:52,711 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 12:42:56,011 [main] INFO logger_File - Text verified!
+2022-01-12 12:42:57,357 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 14:10:37,940 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 14:10:42,325 [main] INFO logger_File - Text verified!
+2022-01-12 14:10:43,985 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 16:43:30,022 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 16:43:34,178 [main] INFO logger_File - Text verified!
+2022-01-12 16:43:35,602 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 18:53:48,275 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 18:53:51,878 [main] INFO logger_File - Text verified!
+2022-01-12 18:53:53,525 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 19:50:18,180 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 19:50:23,705 [main] INFO logger_File - Text verified!
+2022-01-12 19:50:23,706 [main] INFO logger_File - Homepage validated successfully
+2022-01-12 19:50:25,855 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 19:57:29,725 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 19:57:33,739 [main] INFO logger_File - Text verified!
+2022-01-12 19:57:33,740 [main] INFO logger_File - Homepage validated successfully
+2022-01-12 19:57:33,811 [main] INFO logger_File - My account button was clicked successfully
+2022-01-12 19:57:34,126 [main] INFO logger_File - Login button was clicked successfully
+2022-01-12 19:57:34,461 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-12 19:57:34,813 [main] INFO logger_File - Login button was clicked successfully
+2022-01-12 19:57:35,669 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:15:06,327 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:15:10,889 [main] INFO logger_File - Text verified!
+2022-01-12 21:15:10,890 [main] INFO logger_File - Homepage validated successfully
+2022-01-12 21:15:11,058 [main] INFO logger_File - My account button was clicked successfully
+2022-01-12 21:15:11,426 [main] INFO logger_File - Login button was clicked successfully
+2022-01-12 21:15:11,750 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-12 21:15:12,112 [main] INFO logger_File - Login button was clicked successfully
+2022-01-12 21:15:13,043 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:23:45,614 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:23:50,540 [main] INFO logger_File - Text verified!
+2022-01-12 21:23:50,542 [main] INFO logger_File - Homepage validated successfully
+2022-01-12 21:23:51,026 [main] INFO logger_File - My account button was clicked successfully
+2022-01-12 21:23:51,363 [main] INFO logger_File - Login button was clicked successfully
+2022-01-12 21:23:51,657 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-12 21:23:51,929 [main] INFO logger_File - Login button was clicked successfully
+2022-01-12 21:23:52,844 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:27:16,160 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:27:20,598 [main] INFO logger_File - Text verified!
+2022-01-12 21:27:20,599 [main] INFO logger_File - Homepage validated successfully
+2022-01-12 21:27:21,265 [main] INFO logger_File - My account button was clicked successfully
+2022-01-12 21:27:21,552 [main] INFO logger_File - Login button was clicked successfully
+2022-01-12 21:27:21,798 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-12 21:27:22,078 [main] INFO logger_File - Login button was clicked successfully
+2022-01-12 21:27:23,012 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-12 21:35:49,633 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-12 21:35:55,860 [main] INFO logger_File - Text verified!
+2022-01-12 21:35:55,860 [main] INFO logger_File - Homepage validated successfully
+2022-01-12 21:35:57,621 [main] INFO logger_File - My account button was clicked successfully
+2022-01-12 21:35:58,383 [main] INFO logger_File - Login button was clicked successfully
+2022-01-12 21:35:59,043 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-12 21:35:59,752 [main] INFO logger_File - Login button was clicked successfully
+2022-01-12 21:36:01,115 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 17:45:02,078 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 17:45:07,302 [main] INFO logger_File - Text verified!
+2022-01-13 17:45:07,302 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 17:45:07,790 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 17:45:08,027 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 17:45:08,192 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-13 17:45:08,449 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 17:45:09,149 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 17:45:09,162 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 17:45:12,921 [main] INFO logger_File - Text verified!
+2022-01-13 17:45:12,921 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 17:45:13,317 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 17:45:13,525 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 17:45:13,673 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-13 17:45:13,884 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 17:45:14,594 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 17:45:14,601 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 17:45:17,622 [main] INFO logger_File - Text verified!
+2022-01-13 17:45:17,622 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 17:45:18,037 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 17:45:18,298 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 17:45:18,434 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-13 17:45:18,665 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 17:45:19,376 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:13:12,584 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:13:17,203 [main] INFO logger_File - Text verified!
+2022-01-13 19:13:17,203 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 19:13:17,801 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 19:13:18,183 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 19:13:18,521 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-13 19:13:18,965 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 19:13:19,885 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:25:03,241 [main] INFO logger_File - Scenario Land user on myAccount tab Started
+2022-01-13 19:25:07,475 [main] INFO logger_File - Text verified!
+2022-01-13 19:25:07,475 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 19:25:08,167 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 19:25:09,114 [main] INFO logger_File - Scenario Land user on myAccount tab PASSED
+2022-01-13 19:25:09,125 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:25:16,721 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 19:34:09,015 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:34:13,515 [main] INFO logger_File - Text verified!
+2022-01-13 19:34:13,516 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 19:34:14,121 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 19:34:14,440 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 19:34:14,758 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-13 19:34:15,104 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 19:34:16,069 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:54:05,326 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:09,697 [main] INFO logger_File - Text verified!
+2022-01-13 19:54:09,698 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 19:54:10,239 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 19:54:10,559 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 19:54:10,814 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-13 19:54:11,112 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 19:54:12,005 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 19:54:12,032 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:15,487 [main] INFO logger_File - Text verified!
+2022-01-13 19:54:15,488 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 19:54:15,959 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 19:54:16,262 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 19:54:17,154 [main] INFO logger_File - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-13 19:54:17,162 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:20,173 [main] INFO logger_File - Text verified!
+2022-01-13 19:54:20,174 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 19:54:20,700 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 19:54:20,963 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 19:54:21,848 [main] INFO logger_File - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-13 19:54:21,853 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 19:54:25,101 [main] INFO logger_File - Text verified!
+2022-01-13 19:54:25,102 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 19:54:25,563 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 19:54:25,919 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 19:54:26,826 [main] INFO logger_File - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-01-13 20:06:18,825 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 20:06:23,297 [main] INFO logger_File - Text verified!
+2022-01-13 20:06:23,299 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 20:06:23,923 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 20:06:24,275 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 20:06:24,920 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 20:06:25,803 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 20:06:25,818 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 20:06:28,807 [main] INFO logger_File - Text verified!
+2022-01-13 20:06:28,807 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 20:06:29,438 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 20:06:29,832 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 20:06:30,694 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 20:06:31,632 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 20:06:31,641 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 20:06:34,890 [main] INFO logger_File - Text verified!
+2022-01-13 20:06:34,891 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 20:06:35,344 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 20:06:35,682 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 20:06:36,534 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 20:06:37,493 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 21:12:22,925 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:12:27,520 [main] INFO logger_File - Text verified!
+2022-01-13 21:12:27,521 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 21:12:28,114 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 21:12:28,992 [main] INFO logger_File - Scenario Register with Test Environment Webpage UNDEFINED
+2022-01-13 21:44:50,825 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:44:56,641 [main] INFO logger_File - Text verified!
+2022-01-13 21:44:56,642 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 21:44:57,161 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 21:44:57,899 [main] INFO logger_File - Register button was clicked successfully
+2022-01-13 21:44:58,628 [main] INFO logger_File - User data entered successfully
+2022-01-13 21:44:58,704 [main] INFO logger_File - Agree to terms check box selected successfully
+2022-01-13 21:44:59,598 [main] INFO logger_File - Continue button clicked successfully
+2022-01-13 21:45:06,518 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-01-13 21:55:42,372 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-01-13 21:55:46,694 [main] INFO logger_File - Text verified!
+2022-01-13 21:55:46,695 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 21:55:47,299 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 21:55:47,700 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 21:55:48,044 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-01-13 21:55:48,486 [main] INFO logger_File - Login button was clicked successfully
+2022-01-13 21:55:49,393 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-01-13 21:55:49,406 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:55:52,662 [main] INFO logger_File - Text verified!
+2022-01-13 21:55:52,662 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 21:55:53,474 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 21:55:54,403 [main] INFO logger_File - Register button was clicked successfully
+2022-01-13 21:55:55,241 [main] INFO logger_File - User data entered successfully
+2022-01-13 21:55:55,349 [main] INFO logger_File - Agree to terms check box selected successfully
+2022-01-13 21:55:56,218 [main] INFO logger_File - Continue button clicked successfully
+2022-01-13 21:56:03,210 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-01-13 21:59:33,027 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-01-13 21:59:37,775 [main] INFO logger_File - Text verified!
+2022-01-13 21:59:37,776 [main] INFO logger_File - Homepage validated successfully
+2022-01-13 21:59:38,354 [main] INFO logger_File - My account button was clicked successfully
+2022-01-13 21:59:39,060 [main] INFO logger_File - Register button was clicked successfully
+2022-01-13 21:59:39,871 [main] INFO logger_File - User data entered successfully
+2022-01-13 21:59:39,982 [main] INFO logger_File - Agree to terms check box selected successfully
+2022-01-13 21:59:40,640 [main] INFO logger_File - Continue button clicked successfully
+2022-01-13 21:59:47,564 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-02-04 14:31:28,640 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-04 14:31:33,559 [main] INFO logger_File - Text verified!
+2022-02-04 14:31:33,559 [main] INFO logger_File - Homepage validated successfully
+2022-02-04 14:31:33,879 [main] INFO logger_File - My account button was clicked successfully
+2022-02-04 14:31:34,206 [main] INFO logger_File - Login button was clicked successfully
+2022-02-04 14:31:34,500 [main] INFO logger_File - Username and Passwerd entered successfully
+2022-02-04 14:31:34,971 [main] INFO logger_File - Login button was clicked successfully
+2022-02-04 14:31:35,360 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-04 14:31:35,397 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-04 14:31:38,282 [main] INFO logger_File - Text verified!
+2022-02-04 14:31:38,283 [main] INFO logger_File - Homepage validated successfully
+2022-02-04 14:31:38,787 [main] INFO logger_File - My account button was clicked successfully
+2022-02-04 14:31:39,101 [main] INFO logger_File - Login button was clicked successfully
+2022-02-04 14:31:39,646 [main] INFO logger_File - Login button was clicked successfully
+2022-02-04 14:31:39,941 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-04 14:31:39,994 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-04 14:31:43,860 [main] INFO logger_File - Text verified!
+2022-02-04 14:31:43,860 [main] INFO logger_File - Homepage validated successfully
+2022-02-04 14:31:44,168 [main] INFO logger_File - My account button was clicked successfully
+2022-02-04 14:31:44,474 [main] INFO logger_File - Login button was clicked successfully
+2022-02-04 14:31:45,110 [main] INFO logger_File - Login button was clicked successfully
+2022-02-04 14:31:45,400 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-04 14:31:45,478 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-04 14:31:48,546 [main] INFO logger_File - Text verified!
+2022-02-04 14:31:48,546 [main] INFO logger_File - Homepage validated successfully
+2022-02-04 14:31:48,935 [main] INFO logger_File - My account button was clicked successfully
+2022-02-04 14:31:49,277 [main] INFO logger_File - Login button was clicked successfully
+2022-02-04 14:31:50,034 [main] INFO logger_File - Login button was clicked successfully
+2022-02-04 14:31:50,421 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-04 14:31:50,435 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-02-04 14:31:53,283 [main] INFO logger_File - Text verified!
+2022-02-04 14:31:53,284 [main] INFO logger_File - Homepage validated successfully
+2022-02-04 14:31:53,805 [main] INFO logger_File - My account button was clicked successfully
+2022-02-04 14:31:54,651 [main] INFO logger_File - Register button was clicked successfully
+2022-02-04 14:31:55,242 [main] INFO logger_File - User data entered successfully
+2022-02-04 22:42:11,238 [main] INFO logger_File - Scenario Add and Remove a Mac Book from Cart Started
+2022-02-04 22:42:15,860 [main] INFO logger_File - Scenario Add and Remove a Mac Book from Cart PENDING
+2022-02-04 22:42:15,894 [main] INFO logger_File - Scenario Product Comparison Started
+2022-02-04 22:42:18,950 [main] INFO logger_File - Scenario Product Comparison PENDING
+2022-02-04 22:42:18,977 [main] INFO logger_File - Scenario Adding and item to Wish list Started
+2022-02-04 22:42:22,041 [main] INFO logger_File - Scenario Adding and item to Wish list PENDING
+2022-02-04 22:42:22,059 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-04 22:42:25,143 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PENDING
+2022-02-04 22:52:49,778 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-04 22:52:56,118 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PENDING
+2022-02-04 22:52:56,229 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-04 22:52:59,280 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PENDING
+2022-02-04 22:52:59,306 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-04 22:53:02,135 [main] INFO logger_File - Scenario Edit your account Information PENDING
+2022-02-11 12:47:31,933 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-02-11 12:47:48,371 [main] INFO logger_File - Text verified!
+2022-02-11 12:47:48,371 [main] INFO logger_File - Homepage validated successfully
+2022-02-11 12:47:48,905 [main] INFO logger_File - My account button was clicked successfully
+2022-02-11 12:47:49,779 [main] INFO logger_File - Register button was clicked successfully
+2022-02-11 12:47:50,304 [main] INFO logger_File - User data entered successfully
+2022-02-11 12:47:50,362 [main] INFO logger_File - Agree to terms check box selected successfully
+2022-02-11 12:47:50,669 [main] INFO logger_File - Continue button clicked successfully
+2022-02-11 12:47:57,015 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-02-11 12:49:09,922 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-02-11 12:49:14,708 [main] INFO logger_File - Text verified!
+2022-02-11 12:49:14,709 [main] INFO logger_File - Homepage validated successfully
+2022-02-11 12:49:15,192 [main] INFO logger_File - My account button was clicked successfully
+2022-02-11 12:49:17,135 [main] INFO logger_File - Register button was clicked successfully
+2022-02-11 12:49:17,870 [main] INFO logger_File - User data entered successfully
+2022-02-11 12:49:17,985 [main] INFO logger_File - Agree to terms check box selected successfully
+2022-02-11 12:49:18,815 [main] INFO logger_File - Continue button clicked successfully
+2022-02-11 12:49:25,014 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-02-11 12:51:16,610 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-02-11 12:51:22,592 [main] INFO logger_File - Text verified!
+2022-02-11 12:51:22,593 [main] INFO logger_File - Homepage validated successfully
+2022-02-11 12:51:23,259 [main] INFO logger_File - My account button was clicked successfully
+2022-02-11 12:51:24,312 [main] INFO logger_File - Register button was clicked successfully
+2022-02-11 12:51:25,223 [main] INFO logger_File - User data entered successfully
+2022-02-11 12:51:25,653 [main] INFO logger_File - Continue button clicked successfully
+2022-02-11 12:51:32,807 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-02-11 12:52:31,370 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-02-11 12:52:37,357 [main] INFO logger_File - Text verified!
+2022-02-11 12:52:37,358 [main] INFO logger_File - Homepage validated successfully
+2022-02-11 12:52:38,851 [main] INFO logger_File - My account button was clicked successfully
+2022-02-11 12:52:40,050 [main] INFO logger_File - Register button was clicked successfully
+2022-02-11 12:52:41,030 [main] INFO logger_File - User data entered successfully
+2022-02-11 12:52:41,574 [main] INFO logger_File - Continue button clicked successfully
+2022-02-11 12:52:48,523 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-02-11 12:53:05,481 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-02-11 12:53:11,307 [main] INFO logger_File - Text verified!
+2022-02-11 12:53:11,308 [main] INFO logger_File - Homepage validated successfully
+2022-02-11 12:53:12,120 [main] INFO logger_File - My account button was clicked successfully
+2022-02-11 12:53:13,194 [main] INFO logger_File - Register button was clicked successfully
+2022-02-11 12:53:14,623 [main] INFO logger_File - User data entered successfully
+2022-02-11 12:53:15,280 [main] INFO logger_File - Continue button clicked successfully
+2022-02-11 12:53:21,633 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-02-11 12:54:49,984 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-02-11 12:54:55,881 [main] INFO logger_File - Text verified!
+2022-02-11 12:54:55,882 [main] INFO logger_File - Homepage validated successfully
+2022-02-11 12:54:57,074 [main] INFO logger_File - My account button was clicked successfully
+2022-02-11 12:54:58,105 [main] INFO logger_File - Register button was clicked successfully
+2022-02-11 12:54:59,001 [main] INFO logger_File - User data entered successfully
+2022-02-11 12:54:59,466 [main] INFO logger_File - Continue button clicked successfully
+2022-02-11 12:55:07,293 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-02-11 12:55:49,275 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-02-11 12:55:54,319 [main] INFO logger_File - Text verified!
+2022-02-11 12:55:54,320 [main] INFO logger_File - Homepage validated successfully
+2022-02-11 12:55:55,496 [main] INFO logger_File - My account button was clicked successfully
+2022-02-11 12:55:56,553 [main] INFO logger_File - Register button was clicked successfully
+2022-02-11 12:55:57,967 [main] INFO logger_File - User data entered successfully
+2022-02-11 12:55:58,520 [main] INFO logger_File - Continue button clicked successfully
+2022-02-11 12:56:05,297 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-02-11 12:59:21,248 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-11 12:59:27,465 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PENDING
+2022-02-11 12:59:27,554 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-11 12:59:30,764 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PENDING
+2022-02-11 12:59:30,816 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-11 12:59:34,896 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart PENDING
+2022-02-11 12:59:34,973 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-11 12:59:39,502 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PENDING
+2022-02-11 13:00:21,631 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-02-11 13:00:27,548 [main] INFO logger_File - Text verified!
+2022-02-11 13:00:27,549 [main] INFO logger_File - Homepage validated successfully
+2022-02-11 13:00:28,711 [main] INFO logger_File - My account button was clicked successfully
+2022-02-11 13:00:29,923 [main] INFO logger_File - Register button was clicked successfully
+2022-02-11 13:00:30,806 [main] INFO logger_File - User data entered successfully
+2022-02-11 13:00:31,854 [main] INFO logger_File - Continue button clicked successfully
+2022-02-11 13:00:38,264 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-02-11 13:09:06,408 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-02-11 13:09:13,394 [main] INFO logger_File - Text verified!
+2022-02-11 13:09:13,395 [main] INFO logger_File - Homepage validated successfully
+2022-02-11 13:09:14,185 [main] INFO logger_File - My account button was clicked successfully
+2022-02-11 13:09:15,762 [main] INFO logger_File - Register button was clicked successfully
+2022-02-11 13:09:16,588 [main] INFO logger_File - User data entered successfully
+2022-02-11 13:09:17,218 [main] INFO logger_File - Continue button clicked successfully
+2022-02-11 13:09:23,830 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-02-11 13:10:31,393 [main] INFO logger_File - Scenario Register with Test Environment Webpage Started
+2022-02-11 13:10:37,064 [main] INFO logger_File - Text verified!
+2022-02-11 13:10:37,065 [main] INFO logger_File - Homepage validated successfully
+2022-02-11 13:10:37,670 [main] INFO logger_File - My account button was clicked successfully
+2022-02-11 13:10:38,636 [main] INFO logger_File - Register button was clicked successfully
+2022-02-11 13:10:39,605 [main] INFO logger_File - User data entered successfully
+2022-02-11 13:10:40,153 [main] INFO logger_File - Continue button clicked successfully
+2022-02-11 13:10:46,793 [main] INFO logger_File - Scenario Register with Test Environment Webpage PASSED
+2022-02-11 16:39:05,662 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-11 16:39:11,476 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PENDING
+2022-02-11 16:39:11,521 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-11 16:39:14,698 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer PENDING
+2022-02-11 16:39:14,741 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-11 16:39:17,783 [main] INFO logger_File - Scenario Edit your account Information PENDING
+2022-02-12 23:38:51,901 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-12 23:38:57,497 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:38:57,835 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-12 23:38:57,906 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-12 23:39:03,340 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:39:03,602 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-12 23:39:03,658 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-12 23:39:06,617 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:39:06,914 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart FAILED
+2022-02-12 23:39:06,945 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-12 23:39:11,085 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:39:11,289 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab FAILED
+2022-02-12 23:44:33,362 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-12 23:44:36,763 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:44:36,885 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-12 23:44:37,150 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab UNDEFINED
+2022-02-12 23:44:37,217 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-12 23:44:40,010 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:44:40,120 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-12 23:44:40,319 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-12 23:44:40,347 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-12 23:44:43,592 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:44:43,733 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-12 23:44:43,933 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart UNDEFINED
+2022-02-12 23:44:43,955 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-12 23:44:47,290 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:44:47,373 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-12 23:44:47,554 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab UNDEFINED
+2022-02-12 23:46:57,145 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-12 23:47:00,942 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:47:01,283 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-12 23:47:01,318 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-12 23:47:04,315 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:47:04,519 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-12 23:47:04,551 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-12 23:47:07,704 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:47:07,882 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart FAILED
+2022-02-12 23:47:07,919 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-12 23:47:10,575 [main] INFO logger_File - Retail page is opened
+2022-02-12 23:47:10,789 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab FAILED
+2022-02-13 18:33:27,324 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-13 18:33:31,715 [main] INFO logger_File - Currency dropdwon was clicked successfully
+2022-02-13 18:33:31,798 [main] INFO logger_File - Currency was selected successfully
+2022-02-13 18:33:31,842 [main] INFO logger_File - Currency is validated successfully
+2022-02-13 18:33:32,031 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-02-13 18:33:32,098 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-02-13 18:33:34,714 [main] INFO logger_File - Retail page is opened
+2022-02-13 18:33:34,903 [main] INFO logger_File - Scenario User empty Shopping cart message displays UNDEFINED
+2022-02-14 00:53:54,344 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-14 00:54:00,231 [main] INFO logger_File - Currency dropdown was clicked successfully
+2022-02-14 00:54:00,310 [main] INFO logger_File - Currency was selected successfully
+2022-02-14 00:54:00,343 [main] INFO logger_File - Currency is validated successfully
+2022-02-14 00:54:00,537 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-02-14 00:54:00,582 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-02-14 00:54:03,226 [main] INFO logger_File - Retail page is opened
+2022-02-14 00:54:03,422 [main] INFO logger_File - Scenario User empty Shopping cart message displays UNDEFINED
+2022-02-15 11:08:14,205 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 11:08:19,976 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:08:20,051 [main] INFO logger_File - User click on My Account
+2022-02-15 11:08:20,356 [main] INFO logger_File - User click on Login
+2022-02-15 11:08:25,174 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-15 11:08:25,200 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 11:08:28,558 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:08:28,622 [main] INFO logger_File - User click on My Account
+2022-02-15 11:08:28,897 [main] INFO logger_File - User click on Login
+2022-02-15 11:08:33,110 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-02-15 11:08:33,126 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-15 11:08:36,272 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:08:36,333 [main] INFO logger_File - User click on My Account
+2022-02-15 11:08:36,607 [main] INFO logger_File - User click on Login
+2022-02-15 11:08:40,805 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2022-02-15 11:10:19,722 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-15 11:10:22,924 [main] INFO logger_File - Currency dropdown was clicked successfully
+2022-02-15 11:10:22,999 [main] INFO logger_File - Currency was selected successfully
+2022-02-15 11:10:23,037 [main] INFO logger_File - Currency is validated successfully
+2022-02-15 11:10:23,245 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-02-15 11:10:23,313 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-02-15 11:10:26,479 [main] INFO logger_File - Scenario User empty Shopping cart message displays UNDEFINED
+2022-02-15 11:37:02,751 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-15 11:37:06,590 [main] INFO logger_File - Currency dropdown was clicked successfully
+2022-02-15 11:37:06,664 [main] INFO logger_File - Currency was selected successfully
+2022-02-15 11:37:06,709 [main] INFO logger_File - Currency is validated successfully
+2022-02-15 11:37:06,944 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-02-15 11:37:06,991 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-02-15 11:37:10,411 [main] INFO logger_File - user clicked on shopping cart
+2022-02-15 11:37:10,455 [main] INFO logger_File - Shopping Cart empty message is displayed
+2022-02-15 11:37:10,681 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-02-15 11:38:15,262 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 11:38:18,568 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:38:18,624 [main] INFO logger_File - User click on My Account
+2022-02-15 11:38:19,203 [main] INFO logger_File - User click on Login
+2022-02-15 11:38:23,392 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-15 11:38:23,414 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 11:38:26,392 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:38:26,447 [main] INFO logger_File - User click on My Account
+2022-02-15 11:38:26,724 [main] INFO logger_File - User click on Login
+2022-02-15 11:38:31,000 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-02-15 11:38:31,012 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-15 11:38:33,672 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:38:33,730 [main] INFO logger_File - User click on My Account
+2022-02-15 11:38:34,005 [main] INFO logger_File - User click on Login
+2022-02-15 11:38:38,194 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2022-02-15 11:40:12,270 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 11:40:15,536 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:40:15,615 [main] INFO logger_File - User click on My Account
+2022-02-15 11:40:15,896 [main] INFO logger_File - User click on Login
+2022-02-15 11:40:20,202 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-15 11:40:20,226 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 11:40:22,522 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:40:22,618 [main] INFO logger_File - User click on My Account
+2022-02-15 11:40:22,888 [main] INFO logger_File - User click on Login
+2022-02-15 11:40:27,538 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-02-15 11:40:27,556 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-15 11:40:30,092 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:40:30,150 [main] INFO logger_File - User click on My Account
+2022-02-15 11:40:30,443 [main] INFO logger_File - User click on Login
+2022-02-15 11:40:35,073 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2022-02-15 11:58:17,206 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 11:58:20,548 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:58:20,616 [main] INFO logger_File - User click on My Account
+2022-02-15 11:58:20,963 [main] INFO logger_File - User click on Login
+2022-02-15 11:58:25,334 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-15 11:58:25,353 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 11:58:28,224 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:58:28,279 [main] INFO logger_File - User click on My Account
+2022-02-15 11:58:28,538 [main] INFO logger_File - User click on Login
+2022-02-15 11:58:32,743 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-02-15 11:58:32,758 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-15 11:58:35,190 [main] INFO logger_File - Retail page is opened
+2022-02-15 11:58:35,269 [main] INFO logger_File - User click on My Account
+2022-02-15 11:58:35,535 [main] INFO logger_File - User click on Login
+2022-02-15 11:58:40,320 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2022-02-15 12:08:10,008 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 12:08:15,177 [main] INFO logger_File - Retail page is opened
+2022-02-15 12:08:15,230 [main] INFO logger_File - User click on My Account
+2022-02-15 12:08:15,568 [main] INFO logger_File - User click on Login
+2022-02-15 12:08:19,762 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-15 12:08:19,781 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 12:08:22,906 [main] INFO logger_File - Retail page is opened
+2022-02-15 12:08:22,969 [main] INFO logger_File - User click on My Account
+2022-02-15 12:08:23,226 [main] INFO logger_File - User click on Login
+2022-02-15 12:08:27,487 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-02-15 12:08:27,500 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-15 12:08:30,507 [main] INFO logger_File - Retail page is opened
+2022-02-15 12:08:30,564 [main] INFO logger_File - User click on My Account
+2022-02-15 12:08:30,820 [main] INFO logger_File - User click on Login
+2022-02-15 12:08:35,010 [main] INFO logger_File - Scenario Edit your account Information UNDEFINED
+2022-02-15 14:51:46,843 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 14:51:50,509 [main] INFO logger_File - Retail page is opened
+2022-02-15 14:51:50,624 [main] INFO logger_File - User click on My Account
+2022-02-15 14:51:50,936 [main] INFO logger_File - User click on Login
+2022-02-15 14:51:55,894 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method AMBIGUOUS
+2022-02-15 14:51:55,916 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 14:51:59,045 [main] INFO logger_File - Retail page is opened
+2022-02-15 14:53:21,173 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 14:53:24,655 [main] INFO logger_File - Retail page is opened
+2022-02-15 14:53:24,709 [main] INFO logger_File - User click on My Account
+2022-02-15 14:53:24,988 [main] INFO logger_File - User click on Login
+2022-02-15 14:53:29,267 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-15 14:53:29,279 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 14:53:32,124 [main] INFO logger_File - Retail page is opened
+2022-02-15 14:55:24,460 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 14:55:27,500 [main] INFO logger_File - Retail page is opened
+2022-02-15 14:55:27,557 [main] INFO logger_File - User click on My Account
+2022-02-15 14:55:27,857 [main] INFO logger_File - User click on Login
+2022-02-15 14:55:32,603 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method AMBIGUOUS
+2022-02-15 15:00:37,356 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 15:00:40,454 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:00:40,567 [main] INFO logger_File - User click on My Account
+2022-02-15 15:00:40,913 [main] INFO logger_File - User click on Login
+2022-02-15 15:00:45,496 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-15 15:00:45,523 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 15:00:47,940 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:00:48,363 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-15 15:09:36,054 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:09:40,308 [main] INFO logger_File - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-15 15:10:14,745 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:10:18,343 [main] INFO logger_File - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-15 15:10:18,360 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:10:20,988 [main] INFO logger_File - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-15 15:10:21,000 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:10:23,969 [main] INFO logger_File - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-15 15:10:23,984 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:10:27,147 [main] INFO logger_File - Scenario Login to Test Environment Retail Page UNDEFINED
+2022-02-15 15:19:41,690 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:19:44,807 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:19:44,914 [main] INFO logger_File - User click on My Account
+2022-02-15 15:19:45,234 [main] INFO logger_File - User click on Login
+2022-02-15 15:19:48,508 [main] INFO logger_File - User enter email address
+2022-02-15 15:19:48,583 [main] INFO logger_File - User enter password
+2022-02-15 15:22:44,674 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:22:49,066 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:22:49,122 [main] INFO logger_File - User click on My Account
+2022-02-15 15:23:02,952 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:23:05,242 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:24:07,464 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:24:11,426 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:24:11,487 [main] INFO logger_File - User click on My Account
+2022-02-15 15:24:11,750 [main] INFO logger_File - User click on Login
+2022-02-15 15:24:15,030 [main] INFO logger_File - User enter email address
+2022-02-15 15:24:15,102 [main] INFO logger_File - User enter password
+2022-02-15 15:24:25,294 [main] INFO logger_File - User click on Login button
+2022-02-15 15:25:06,628 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:25:10,224 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:25:10,279 [main] INFO logger_File - User click on My Account
+2022-02-15 15:25:10,566 [main] INFO logger_File - User click on Login
+2022-02-15 15:25:13,828 [main] INFO logger_File - User enter email address
+2022-02-15 15:25:13,912 [main] INFO logger_File - User enter password
+2022-02-15 15:25:14,442 [main] INFO logger_File - User click on Login button
+2022-02-15 15:25:15,044 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-15 15:25:15,072 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:25:18,785 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:25:18,837 [main] INFO logger_File - User click on My Account
+2022-02-15 15:25:19,106 [main] INFO logger_File - User click on Login
+2022-02-15 15:25:22,678 [main] INFO logger_File - User click on Login button
+2022-02-15 15:25:23,339 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-15 15:25:23,352 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:25:26,498 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:25:26,558 [main] INFO logger_File - User click on My Account
+2022-02-15 15:25:26,858 [main] INFO logger_File - User click on Login
+2022-02-15 15:25:30,547 [main] INFO logger_File - User click on Login button
+2022-02-15 15:25:31,102 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-15 15:25:31,114 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-15 15:25:34,741 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:25:34,803 [main] INFO logger_File - User click on My Account
+2022-02-15 15:25:35,072 [main] INFO logger_File - User click on Login
+2022-02-15 15:25:38,915 [main] INFO logger_File - User click on Login button
+2022-02-15 15:25:39,328 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-15 15:26:48,884 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 15:26:52,380 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:26:52,432 [main] INFO logger_File - User click on My Account
+2022-02-15 15:26:52,694 [main] INFO logger_File - User click on Login
+2022-02-15 15:26:55,947 [main] INFO logger_File - User enter email address
+2022-02-15 15:26:56,057 [main] INFO logger_File - User enter password
+2022-02-15 15:26:56,589 [main] INFO logger_File - User click on Login button
+2022-02-15 15:26:57,124 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-15 15:31:37,766 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 15:31:42,364 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:31:42,422 [main] INFO logger_File - User click on My Account
+2022-02-15 15:31:42,706 [main] INFO logger_File - User click on Login
+2022-02-15 15:31:46,002 [main] INFO logger_File - User enter email address
+2022-02-15 15:31:46,079 [main] INFO logger_File - User enter password
+2022-02-15 15:31:46,589 [main] INFO logger_File - User click on Login button
+2022-02-15 15:31:47,159 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-15 15:32:50,284 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 15:32:53,576 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:32:53,628 [main] INFO logger_File - User click on My Account
+2022-02-15 15:32:53,940 [main] INFO logger_File - User click on Login
+2022-02-15 15:32:57,198 [main] INFO logger_File - User enter email address
+2022-02-15 15:32:57,270 [main] INFO logger_File - User enter password
+2022-02-15 15:32:57,786 [main] INFO logger_File - User click on Login button
+2022-02-15 15:32:58,318 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-15 15:34:37,708 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 15:34:40,841 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:34:40,920 [main] INFO logger_File - User click on My Account
+2022-02-15 15:34:41,266 [main] INFO logger_File - User click on Login
+2022-02-15 15:34:44,529 [main] INFO logger_File - User enter email address
+2022-02-15 15:34:44,603 [main] INFO logger_File - User enter password
+2022-02-15 15:34:45,091 [main] INFO logger_File - User click on Login button
+2022-02-15 15:34:45,954 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-15 15:35:55,471 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 15:35:58,622 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:35:58,690 [main] INFO logger_File - User click on My Account
+2022-02-15 15:35:59,011 [main] INFO logger_File - User click on Login
+2022-02-15 15:36:02,265 [main] INFO logger_File - User enter email address
+2022-02-15 15:36:02,338 [main] INFO logger_File - User enter password
+2022-02-15 15:36:02,835 [main] INFO logger_File - User click on Login button
+2022-02-15 15:36:03,668 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-15 15:42:17,480 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 15:42:23,577 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:42:23,667 [main] INFO logger_File - User click on My Account
+2022-02-15 15:42:24,112 [main] INFO logger_File - User click on Login
+2022-02-15 15:42:27,366 [main] INFO logger_File - User enter email address
+2022-02-15 15:42:27,442 [main] INFO logger_File - User enter password
+2022-02-15 15:42:27,956 [main] INFO logger_File - User click on Login button
+2022-02-15 15:42:28,484 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-15 15:46:02,975 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 15:46:07,191 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:46:07,252 [main] INFO logger_File - User click on My Account
+2022-02-15 15:46:07,526 [main] INFO logger_File - User click on Login
+2022-02-15 15:46:10,822 [main] INFO logger_File - User enter email address
+2022-02-15 15:46:10,897 [main] INFO logger_File - User enter password
+2022-02-15 15:46:11,413 [main] INFO logger_File - User click on Login button
+2022-02-15 15:46:12,192 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-15 15:48:30,532 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 15:48:34,276 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:48:34,399 [main] INFO logger_File - User click on My Account
+2022-02-15 15:48:34,682 [main] INFO logger_File - User click on Login
+2022-02-15 15:48:37,931 [main] INFO logger_File - User enter email address
+2022-02-15 15:48:38,004 [main] INFO logger_File - User enter password
+2022-02-15 15:48:38,513 [main] INFO logger_File - User click on Login button
+2022-02-15 15:48:39,112 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-15 15:48:39,134 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 15:48:42,081 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:48:42,141 [main] INFO logger_File - User click on My Account
+2022-02-15 15:48:42,464 [main] INFO logger_File - User click on Login
+2022-02-15 15:48:45,695 [main] INFO logger_File - User enter email address
+2022-02-15 15:48:45,772 [main] INFO logger_File - User enter password
+2022-02-15 15:48:46,334 [main] INFO logger_File - User click on Login button
+2022-02-15 15:48:46,866 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer FAILED
+2022-02-15 15:48:46,924 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-15 15:48:50,084 [main] INFO logger_File - Retail page is opened
+2022-02-15 15:48:50,150 [main] INFO logger_File - User click on My Account
+2022-02-15 15:48:50,424 [main] INFO logger_File - User click on Login
+2022-02-15 15:48:53,684 [main] INFO logger_File - User enter email address
+2022-02-15 15:48:53,763 [main] INFO logger_File - User enter password
+2022-02-15 15:48:54,248 [main] INFO logger_File - User click on Login button
+2022-02-15 15:48:55,075 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2022-02-15 16:04:44,582 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 16:04:47,779 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:04:47,862 [main] INFO logger_File - User click on My Account
+2022-02-15 16:04:48,188 [main] INFO logger_File - User click on Login
+2022-02-15 16:04:51,467 [main] INFO logger_File - User enter email address
+2022-02-15 16:04:51,543 [main] INFO logger_File - User enter password
+2022-02-15 16:04:52,158 [main] INFO logger_File - User click on Login button
+2022-02-15 16:04:52,519 [main] INFO logger_File - user clicked on the login button
+2022-02-15 16:04:52,877 [main] INFO logger_File - User entered info to register for affiliate user
+2022-02-15 16:05:45,138 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 16:08:53,573 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 16:08:56,733 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:08:56,815 [main] INFO logger_File - User click on My Account
+2022-02-15 16:08:57,132 [main] INFO logger_File - User click on Login
+2022-02-15 16:09:00,397 [main] INFO logger_File - User enter email address
+2022-02-15 16:09:00,481 [main] INFO logger_File - User enter password
+2022-02-15 16:09:01,114 [main] INFO logger_File - User click on Login button
+2022-02-15 16:09:01,436 [main] INFO logger_File - user clicked on the login button
+2022-02-15 16:09:01,863 [main] INFO logger_File - User entered info to register for affiliate user
+2022-02-15 16:18:28,750 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 16:18:32,938 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:18:32,994 [main] INFO logger_File - User click on My Account
+2022-02-15 16:18:33,305 [main] INFO logger_File - User click on Login
+2022-02-15 16:18:36,603 [main] INFO logger_File - User enter email address
+2022-02-15 16:18:36,688 [main] INFO logger_File - User enter password
+2022-02-15 16:18:37,315 [main] INFO logger_File - User click on Login button
+2022-02-15 16:18:37,651 [main] INFO logger_File - user clicked on the login button
+2022-02-15 16:18:38,155 [main] INFO logger_File - User entered info to register for affiliate user
+2022-02-15 16:22:19,815 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 16:22:23,598 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:22:23,653 [main] INFO logger_File - User click on My Account
+2022-02-15 16:22:23,946 [main] INFO logger_File - User click on Login
+2022-02-15 16:22:27,235 [main] INFO logger_File - User enter email address
+2022-02-15 16:22:27,315 [main] INFO logger_File - User enter password
+2022-02-15 16:22:28,034 [main] INFO logger_File - User click on Login button
+2022-02-15 16:22:28,441 [main] INFO logger_File - user clicked on the login button
+2022-02-15 16:22:28,964 [main] INFO logger_File - User entered info to register for affiliate user
+2022-02-15 16:22:29,234 [main] INFO logger_File - User clicked on About Us Button
+2022-02-15 16:24:55,335 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 16:24:59,150 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:24:59,208 [main] INFO logger_File - User click on My Account
+2022-02-15 16:24:59,528 [main] INFO logger_File - User click on Login
+2022-02-15 16:25:02,792 [main] INFO logger_File - User enter email address
+2022-02-15 16:25:02,870 [main] INFO logger_File - User enter password
+2022-02-15 16:25:03,808 [main] INFO logger_File - User click on Login button
+2022-02-15 16:25:04,289 [main] INFO logger_File - user clicked on the login button
+2022-02-15 16:25:04,830 [main] INFO logger_File - User entered info to register for affiliate user
+2022-02-15 16:25:08,092 [main] INFO logger_File - User clicked on About Us Button
+2022-02-15 16:25:28,698 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 16:25:31,168 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:25:31,480 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-15 16:27:10,298 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 16:27:14,334 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:27:14,391 [main] INFO logger_File - User click on My Account
+2022-02-15 16:27:14,690 [main] INFO logger_File - User click on Login
+2022-02-15 16:27:17,954 [main] INFO logger_File - User enter email address
+2022-02-15 16:27:18,035 [main] INFO logger_File - User enter password
+2022-02-15 16:27:18,668 [main] INFO logger_File - User click on Login button
+2022-02-15 16:27:19,015 [main] INFO logger_File - user clicked on the login button
+2022-02-15 16:27:19,516 [main] INFO logger_File - User entered info to register for affiliate user
+2022-02-15 16:27:22,773 [main] INFO logger_File - User clicked on About Us Button
+2022-02-15 16:27:23,427 [main] INFO logger_File - User clicked on continue button
+2022-02-15 16:28:23,862 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-15 16:28:23,935 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 16:28:26,765 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:28:26,831 [main] INFO logger_File - User click on My Account
+2022-02-15 16:28:27,098 [main] INFO logger_File - User click on Login
+2022-02-15 16:28:30,343 [main] INFO logger_File - User enter email address
+2022-02-15 16:28:30,446 [main] INFO logger_File - User enter password
+2022-02-15 16:28:31,075 [main] INFO logger_File - User click on Login button
+2022-02-15 16:28:31,872 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-02-15 16:28:31,885 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-15 16:28:34,875 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:28:34,936 [main] INFO logger_File - User click on My Account
+2022-02-15 16:28:35,257 [main] INFO logger_File - User click on Login
+2022-02-15 16:28:38,531 [main] INFO logger_File - User enter email address
+2022-02-15 16:28:38,607 [main] INFO logger_File - User enter password
+2022-02-15 16:28:39,223 [main] INFO logger_File - User click on Login button
+2022-02-15 16:33:18,566 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 16:33:23,782 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:33:23,856 [main] INFO logger_File - User click on My Account
+2022-02-15 16:33:24,173 [main] INFO logger_File - User click on Login
+2022-02-15 16:33:27,442 [main] INFO logger_File - User enter email address
+2022-02-15 16:33:27,522 [main] INFO logger_File - User enter password
+2022-02-15 16:33:28,209 [main] INFO logger_File - User click on Login button
+2022-02-15 16:33:28,584 [main] INFO logger_File - user clicked on the login button
+2022-02-15 16:33:29,101 [main] INFO logger_File - User entered info to register for affiliate user
+2022-02-15 16:33:32,362 [main] INFO logger_File - User clicked on About Us Button
+2022-02-15 16:33:33,449 [main] INFO logger_File - User clicked on continue button
+2022-02-15 16:33:33,701 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2022-02-15 16:33:34,045 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-02-15 16:33:34,110 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-15 16:33:37,519 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:33:41,757 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-15 16:33:45,968 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:33:46,030 [main] INFO logger_File - User click on My Account
+2022-02-15 16:33:46,314 [main] INFO logger_File - User click on Login
+2022-02-15 16:35:10,127 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 16:35:14,409 [main] INFO logger_File - Retail page is opened
+2022-02-15 16:35:14,468 [main] INFO logger_File - User click on My Account
+2022-02-15 16:35:14,813 [main] INFO logger_File - User click on Login
+2022-02-15 16:35:18,092 [main] INFO logger_File - User enter email address
+2022-02-15 16:35:18,169 [main] INFO logger_File - User enter password
+2022-02-15 16:35:19,437 [main] INFO logger_File - User click on Login button
+2022-02-15 16:35:19,828 [main] INFO logger_File - user clicked on the login button
+2022-02-15 16:35:20,351 [main] INFO logger_File - User entered info to register for affiliate user
+2022-02-15 16:35:23,632 [main] INFO logger_File - User clicked on About Us Button
+2022-02-15 16:35:24,286 [main] INFO logger_File - User clicked on continue button
+2022-02-15 16:35:24,532 [main] INFO logger_File - Affiliate User Success Message is displayed!
+2022-02-15 16:35:24,939 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method PASSED
+2022-02-15 23:09:15,649 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 23:09:19,739 [main] INFO logger_File - Retail page is opened
+2022-02-15 23:09:19,793 [main] INFO logger_File - User click on My Account
+2022-02-15 23:09:20,073 [main] INFO logger_File - User click on Login
+2022-02-15 23:09:23,356 [main] INFO logger_File - User enter email address
+2022-02-15 23:09:23,435 [main] INFO logger_File - User enter password
+2022-02-15 23:09:24,019 [main] INFO logger_File - User click on Login button
+2022-02-15 23:09:54,279 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-15 23:10:15,155 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-15 23:10:18,624 [main] INFO logger_File - Retail page is opened
+2022-02-15 23:10:18,682 [main] INFO logger_File - User click on My Account
+2022-02-15 23:10:18,929 [main] INFO logger_File - User click on Login
+2022-02-15 23:10:22,196 [main] INFO logger_File - User enter email address
+2022-02-15 23:10:22,265 [main] INFO logger_File - User enter password
+2022-02-15 23:10:22,860 [main] INFO logger_File - User click on Login button
+2022-02-15 23:10:53,095 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-16 10:07:46,189 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-16 10:07:54,522 [main] INFO logger_File - Retail page is opened
+2022-02-16 10:07:54,732 [main] INFO logger_File - User click on My Account
+2022-02-16 10:07:55,140 [main] INFO logger_File - User click on Login
+2022-02-16 10:07:58,584 [main] INFO logger_File - User enter email address
+2022-02-16 10:07:58,683 [main] INFO logger_File - User enter password
+2022-02-16 10:07:59,741 [main] INFO logger_File - User click on Login button
+2022-02-16 10:08:30,214 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-16 10:57:04,769 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-16 10:57:50,706 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-16 10:57:54,314 [main] INFO logger_File - Retail page is opened
+2022-02-16 10:57:54,366 [main] INFO logger_File - User click on My Account
+2022-02-16 10:57:54,617 [main] INFO logger_File - User click on Login
+2022-02-16 10:57:57,893 [main] INFO logger_File - User enter email address
+2022-02-16 10:57:57,960 [main] INFO logger_File - User enter password
+2022-02-16 10:57:58,532 [main] INFO logger_File - User click on Login button
+2022-02-16 10:58:28,702 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-16 11:53:31,182 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-16 11:53:37,563 [main] INFO logger_File - Retail page is opened
+2022-02-16 11:53:37,620 [main] INFO logger_File - User click on My Account
+2022-02-16 11:53:37,895 [main] INFO logger_File - User click on Login
+2022-02-16 11:53:41,164 [main] INFO logger_File - User enter email address
+2022-02-16 11:53:41,243 [main] INFO logger_File - User enter password
+2022-02-16 11:53:41,841 [main] INFO logger_File - User click on Login button
+2022-02-16 11:54:12,122 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-16 17:27:24,226 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-16 17:27:27,734 [main] INFO logger_File - Retail page is opened
+2022-02-16 17:27:27,790 [main] INFO logger_File - User click on My Account
+2022-02-16 17:27:28,038 [main] INFO logger_File - User click on Login
+2022-02-16 17:27:31,302 [main] INFO logger_File - User enter email address
+2022-02-16 17:27:31,370 [main] INFO logger_File - User enter password
+2022-02-16 17:27:32,002 [main] INFO logger_File - User click on Login button
+2022-02-16 17:28:02,247 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-16 17:28:38,924 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-16 17:28:42,346 [main] INFO logger_File - Retail page is opened
+2022-02-16 17:28:42,406 [main] INFO logger_File - User click on My Account
+2022-02-16 17:28:42,688 [main] INFO logger_File - User click on Login
+2022-02-16 17:28:45,958 [main] INFO logger_File - User enter email address
+2022-02-16 17:28:46,029 [main] INFO logger_File - User enter password
+2022-02-16 17:28:46,647 [main] INFO logger_File - User click on Login button
+2022-02-16 17:29:16,825 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-16 17:29:16,891 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer Started
+2022-02-16 17:29:19,722 [main] INFO logger_File - Retail page is opened
+2022-02-16 17:29:19,777 [main] INFO logger_File - User click on My Account
+2022-02-16 17:29:20,020 [main] INFO logger_File - User click on Login
+2022-02-16 17:29:23,283 [main] INFO logger_File - User enter email address
+2022-02-16 17:29:23,359 [main] INFO logger_File - User enter password
+2022-02-16 17:29:23,944 [main] INFO logger_File - User click on Login button
+2022-02-16 17:29:24,263 [main] INFO logger_File - Scenario Edit your affiliate information from Cheque payment method to Bank Transfer UNDEFINED
+2022-02-16 17:29:24,284 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-16 17:29:27,246 [main] INFO logger_File - Retail page is opened
+2022-02-16 17:29:27,299 [main] INFO logger_File - User click on My Account
+2022-02-16 17:29:27,543 [main] INFO logger_File - User click on Login
+2022-02-16 17:29:30,795 [main] INFO logger_File - User enter email address
+2022-02-16 17:29:30,861 [main] INFO logger_File - User enter password
+2022-02-16 17:29:31,557 [main] INFO logger_File - User click on Login button
+2022-02-16 17:30:31,780 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2022-02-16 17:31:04,988 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-16 17:31:08,397 [main] INFO logger_File - Currency dropdown was clicked successfully
+2022-02-16 17:31:08,472 [main] INFO logger_File - Currency was selected successfully
+2022-02-16 17:31:08,501 [main] INFO logger_File - Currency is validated successfully
+2022-02-16 17:31:08,762 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-02-16 17:31:08,812 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-02-16 17:31:11,474 [main] INFO logger_File - user clicked on shopping cart
+2022-02-16 17:31:11,522 [main] INFO logger_File - Shopping Cart empty message is displayed
+2022-02-16 17:31:11,677 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-02-16 17:31:33,908 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-16 17:31:37,206 [main] INFO logger_File - Currency dropdown was clicked successfully
+2022-02-16 17:31:37,278 [main] INFO logger_File - Currency was selected successfully
+2022-02-16 17:31:37,317 [main] INFO logger_File - Currency is validated successfully
+2022-02-16 17:31:37,513 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-02-16 17:31:37,550 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-02-16 17:31:40,421 [main] INFO logger_File - user clicked on shopping cart
+2022-02-16 17:31:40,464 [main] INFO logger_File - Shopping Cart empty message is displayed
+2022-02-16 17:31:40,638 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-02-16 21:18:01,539 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-16 21:18:05,173 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-16 21:19:51,374 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-16 21:19:54,330 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-16 21:19:54,437 [main] INFO logger_File - user clicked on My Account
+2022-02-16 21:19:54,756 [main] INFO logger_File - user clicked on Login option
+2022-02-16 21:19:54,997 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-16 21:25:22,103 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-16 21:25:25,174 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-16 21:25:25,265 [main] INFO logger_File - user clicked on My Account
+2022-02-16 21:25:25,562 [main] INFO logger_File - user clicked on Login option
+2022-02-16 21:25:25,782 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method UNDEFINED
+2022-02-16 21:26:08,291 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-16 21:26:11,652 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-16 21:26:11,721 [main] INFO logger_File - user clicked on My Account
+2022-02-16 21:26:12,047 [main] INFO logger_File - user clicked on Login option
+2022-02-16 21:26:12,373 [main] INFO logger_File - user clicked on the login button
+2022-02-16 21:27:12,568 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-16 21:30:35,567 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-16 21:30:46,057 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-16 21:30:46,111 [main] INFO logger_File - user clicked on My Account
+2022-02-16 21:30:46,358 [main] INFO logger_File - user clicked on Login option
+2022-02-16 21:30:46,607 [main] INFO logger_File - user clicked on the login button
+2022-02-16 21:31:46,866 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-17 08:52:24,920 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 08:52:29,090 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-17 08:52:29,163 [main] INFO logger_File - user clicked on My Account
+2022-02-17 08:52:29,459 [main] INFO logger_File - user clicked on Login option
+2022-02-17 08:52:29,747 [main] INFO logger_File - user clicked on the login button
+2022-02-17 08:53:30,012 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-17 23:36:46,111 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 23:36:50,982 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-17 23:36:51,040 [main] INFO logger_File - user clicked on My Account
+2022-02-17 23:36:51,350 [main] INFO logger_File - user clicked on Login option
+2022-02-17 23:36:51,687 [main] INFO logger_File - user clicked on the login button
+2022-02-17 23:37:51,980 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-17 23:43:28,887 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method Started
+2022-02-17 23:43:32,090 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-17 23:43:32,193 [main] INFO logger_File - user clicked on My Account
+2022-02-17 23:43:32,484 [main] INFO logger_File - user clicked on Login option
+2022-02-17 23:43:32,754 [main] INFO logger_File - user clicked on the login button
+2022-02-17 23:44:33,046 [main] INFO logger_File - Scenario Register as an Affiliate user with Cheque Payment Method FAILED
+2022-02-17 23:53:22,620 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-17 23:53:25,900 [main] INFO logger_File - Retail page is opened
+2022-02-17 23:53:25,999 [main] INFO logger_File - User click on My Account
+2022-02-17 23:53:26,295 [main] INFO logger_File - User click on Login
+2022-02-17 23:53:29,609 [main] INFO logger_File - User enter email address
+2022-02-17 23:53:29,690 [main] INFO logger_File - User enter password
+2022-02-17 23:53:30,364 [main] INFO logger_File - User click on Login button
+2022-02-17 23:53:31,068 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-17 23:53:31,095 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-17 23:53:33,751 [main] INFO logger_File - Retail page is opened
+2022-02-17 23:53:33,802 [main] INFO logger_File - User click on My Account
+2022-02-17 23:53:34,090 [main] INFO logger_File - User click on Login
+2022-02-17 23:53:37,683 [main] INFO logger_File - User click on Login button
+2022-02-17 23:53:38,675 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-17 23:53:38,688 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-17 23:53:40,992 [main] INFO logger_File - Retail page is opened
+2022-02-17 23:53:41,075 [main] INFO logger_File - User click on My Account
+2022-02-17 23:53:41,675 [main] INFO logger_File - User click on Login
+2022-02-17 23:53:45,362 [main] INFO logger_File - User click on Login button
+2022-02-17 23:53:46,226 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-17 23:53:46,242 [main] INFO logger_File - Scenario Login to Test Environment Retail Page Started
+2022-02-17 23:53:50,591 [main] INFO logger_File - Retail page is opened
+2022-02-17 23:53:50,655 [main] INFO logger_File - User click on My Account
+2022-02-17 23:53:51,266 [main] INFO logger_File - User click on Login
+2022-02-17 23:53:55,084 [main] INFO logger_File - User click on Login button
+2022-02-17 23:53:55,778 [main] INFO logger_File - Scenario Login to Test Environment Retail Page PASSED
+2022-02-17 23:57:40,318 [main] INFO logger_File - Scenario Add and Remove a Mac Book from Cart Started
+2022-02-17 23:57:43,814 [main] INFO logger_File - Retail page is opened
+2022-02-17 23:57:46,764 [main] INFO logger_File - Scenario Add and Remove a Mac Book from Cart PASSED
+2022-02-17 23:57:46,813 [main] INFO logger_File - Scenario Product Comparison Started
+2022-02-17 23:57:49,255 [main] INFO logger_File - Retail page is opened
+2022-02-17 23:57:50,942 [main] INFO logger_File - Scenario Product Comparison PASSED
+2022-02-17 23:57:50,985 [main] INFO logger_File - Scenario Adding and item to Wish list Started
+2022-02-17 23:57:53,586 [main] INFO logger_File - Retail page is opened
+2022-02-17 23:57:54,628 [main] INFO logger_File - Scenario Adding and item to Wish list PASSED
+2022-02-17 23:57:54,656 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 Started
+2022-02-17 23:57:57,843 [main] INFO logger_File - Retail page is opened
+2022-02-17 23:58:00,138 [main] INFO logger_File - Scenario Validate the price of MacBook Pro is 2000 PASSED
+2022-02-18 00:02:05,156 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 00:02:08,358 [main] INFO logger_File - Retail page is opened
+2022-02-18 00:02:08,669 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-18 00:02:08,705 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 00:02:11,203 [main] INFO logger_File - Retail page is opened
+2022-02-18 00:02:11,443 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-18 00:02:11,470 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 00:02:14,842 [main] INFO logger_File - Retail page is opened
+2022-02-18 00:02:15,060 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart FAILED
+2022-02-18 00:02:15,086 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 00:02:17,829 [main] INFO logger_File - Retail page is opened
+2022-02-18 00:02:18,083 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab FAILED
+2022-02-18 00:09:07,234 [main] INFO logger_File - Scenario User verify currency values change Started
+2022-02-18 00:09:10,492 [main] INFO logger_File - Currency dropdown was clicked successfully
+2022-02-18 00:09:10,583 [main] INFO logger_File - Currency was selected successfully
+2022-02-18 00:09:10,612 [main] INFO logger_File - Currency is validated successfully
+2022-02-18 00:09:10,880 [main] INFO logger_File - Scenario User verify currency values change PASSED
+2022-02-18 00:09:10,912 [main] INFO logger_File - Scenario User empty Shopping cart message displays Started
+2022-02-18 00:09:13,698 [main] INFO logger_File - user clicked on shopping cart
+2022-02-18 00:09:13,745 [main] INFO logger_File - Shopping Cart empty message is displayed
+2022-02-18 00:09:13,944 [main] INFO logger_File - Scenario User empty Shopping cart message displays PASSED
+2022-02-18 00:15:43,957 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 00:15:47,579 [main] INFO logger_File - Retail page is opened
+2022-02-18 00:15:47,911 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-18 00:15:47,937 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 00:15:50,450 [main] INFO logger_File - Retail page is opened
+2022-02-18 00:15:50,705 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-18 00:15:50,754 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 00:15:53,351 [main] INFO logger_File - Retail page is opened
+2022-02-18 00:15:53,561 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart FAILED
+2022-02-18 00:15:53,583 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 00:15:56,166 [main] INFO logger_File - Retail page is opened
+2022-02-18 00:15:56,371 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab FAILED
+2022-02-18 19:59:58,946 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 20:00:04,101 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:00:04,576 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab FAILED
+2022-02-18 20:00:04,612 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 20:00:07,480 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:00:07,801 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart FAILED
+2022-02-18 20:00:07,894 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 20:00:11,103 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:00:11,376 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart FAILED
+2022-02-18 20:00:11,426 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 20:00:14,573 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:00:14,831 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab FAILED
+2022-02-18 20:04:23,270 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 20:04:27,457 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:04:27,627 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:04:28,713 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:04:29,103 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab UNDEFINED
+2022-02-18 20:04:29,152 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 20:04:32,994 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:04:33,078 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:04:34,134 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:04:34,372 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-18 20:04:34,413 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 20:04:38,238 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:04:38,314 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:04:38,823 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:04:39,023 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart UNDEFINED
+2022-02-18 20:04:39,116 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 20:04:44,856 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:04:44,953 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:04:45,779 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:04:47,713 [main] INFO logger_File - User Clicked on Canon Item
+2022-02-18 20:04:48,137 [main] INFO logger_File - User clicked on write review link
+2022-02-18 20:04:48,704 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab UNDEFINED
+2022-02-18 20:10:00,993 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 20:10:05,843 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab UNDEFINED
+2022-02-18 20:10:05,872 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 20:10:08,672 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-18 20:10:08,688 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 20:10:12,213 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart UNDEFINED
+2022-02-18 20:10:12,238 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 20:10:15,732 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab UNDEFINED
+2022-02-18 20:22:47,517 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 20:22:54,972 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2022-02-18 20:22:55,697 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:22:56,518 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:22:56,520 [main] INFO logger_File - All items are present in Desktops page
+2022-02-18 20:22:57,120 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 20:22:57,170 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 20:23:00,105 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2022-02-18 20:23:00,519 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:23:01,154 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:23:02,896 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2022-02-18 20:23:03,406 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-18 20:23:03,435 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 20:23:06,398 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2022-02-18 20:23:06,783 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:23:07,321 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:23:08,934 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2022-02-18 20:23:09,323 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2022-02-18 20:23:09,897 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart UNDEFINED
+2022-02-18 20:23:09,955 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 20:23:12,867 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2022-02-18 20:23:13,265 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:23:13,888 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:23:15,238 [main] INFO logger_File - User Clicked on Canon Item
+2022-02-18 20:23:15,635 [main] INFO logger_File - User clicked on write review link
+2022-02-18 20:36:26,910 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 20:36:30,582 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2022-02-18 20:36:31,135 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:36:31,874 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:36:31,875 [main] INFO logger_File - All items are present in Desktops page
+2022-02-18 20:36:32,422 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 20:36:32,506 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 20:36:37,727 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2022-02-18 20:36:38,058 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:36:38,983 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:36:41,030 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2022-02-18 20:36:41,483 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart UNDEFINED
+2022-02-18 20:36:41,500 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 20:36:44,848 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2022-02-18 20:36:45,407 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:36:45,982 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:36:47,885 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2022-02-18 20:36:48,313 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2022-02-18 20:36:48,907 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart UNDEFINED
+2022-02-18 20:36:48,924 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 20:36:52,090 [main] INFO logger_File - User is on retail website, actual page title equals the expected page title
+2022-02-18 20:36:52,574 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:36:53,131 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:36:54,716 [main] INFO logger_File - User Clicked on Canon Item
+2022-02-18 20:36:55,136 [main] INFO logger_File - User clicked on write review link
+2022-02-18 20:36:56,015 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab FAILED
+2022-02-18 20:45:12,282 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 20:45:15,787 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:45:15,905 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:45:16,515 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:45:16,526 [main] INFO logger_File - All items are present in Desktops page
+2022-02-18 20:45:17,184 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 20:45:17,215 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 20:45:20,148 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:45:20,215 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:45:20,791 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:45:22,545 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2022-02-18 20:45:22,776 [main] INFO logger_File - User selected quantity
+2022-02-18 20:45:23,071 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 20:45:23,377 [main] INFO logger_File - HP LP is successfully added to the cart
+2022-02-18 20:45:24,125 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-02-18 20:45:24,155 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 20:45:27,792 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:45:27,867 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:45:28,365 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:45:29,791 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2022-02-18 20:45:30,187 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2022-02-18 20:45:30,592 [main] INFO logger_File - User selected quantity
+2022-02-18 20:45:30,871 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 20:45:31,232 [main] INFO logger_File - Success message displayed for Canon purchase
+2022-02-18 20:45:32,015 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart PASSED
+2022-02-18 20:45:32,039 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 20:45:35,143 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:45:35,244 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:45:35,968 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:45:37,503 [main] INFO logger_File - User Clicked on Canon Item
+2022-02-18 20:45:37,859 [main] INFO logger_File - User clicked on write review link
+2022-02-18 20:45:42,272 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab FAILED
+2022-02-18 20:47:17,431 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 20:47:21,391 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:47:21,476 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:47:22,014 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:47:22,019 [main] INFO logger_File - All items are present in Desktops page
+2022-02-18 20:47:22,655 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 20:47:22,751 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 20:47:25,916 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:47:26,032 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:47:26,549 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:47:28,180 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2022-02-18 20:47:28,416 [main] INFO logger_File - User selected quantity
+2022-02-18 20:47:28,700 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 20:47:28,990 [main] INFO logger_File - HP LP is successfully added to the cart
+2022-02-18 20:47:29,675 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-02-18 20:47:29,722 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 20:47:33,107 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:47:33,212 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:47:33,825 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:47:35,874 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2022-02-18 20:47:36,247 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2022-02-18 20:47:36,558 [main] INFO logger_File - User selected quantity
+2022-02-18 20:47:36,814 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 20:47:37,088 [main] INFO logger_File - Success message displayed for Canon purchase
+2022-02-18 20:47:39,542 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart PASSED
+2022-02-18 20:47:39,585 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 20:47:42,636 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:47:42,697 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:47:43,235 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:47:44,645 [main] INFO logger_File - User Clicked on Canon Item
+2022-02-18 20:47:45,098 [main] INFO logger_File - User clicked on write review link
+2022-02-18 20:47:48,955 [main] INFO logger_File - User clicked on review continue button
+2022-02-18 20:49:07,703 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 20:49:11,524 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:49:11,659 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:49:12,226 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:49:12,234 [main] INFO logger_File - All items are present in Desktops page
+2022-02-18 20:49:12,886 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 20:49:12,933 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 20:49:16,137 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:49:16,235 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:49:16,807 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:49:18,645 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2022-02-18 20:49:18,920 [main] INFO logger_File - User selected quantity
+2022-02-18 20:49:19,269 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 20:49:19,582 [main] INFO logger_File - HP LP is successfully added to the cart
+2022-02-18 20:49:20,330 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-02-18 20:49:20,396 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 20:49:23,266 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:49:23,351 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:49:23,951 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:49:25,298 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2022-02-18 20:49:25,727 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2022-02-18 20:49:26,010 [main] INFO logger_File - User selected quantity
+2022-02-18 20:49:26,266 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 20:49:26,696 [main] INFO logger_File - Success message displayed for Canon purchase
+2022-02-18 20:49:27,477 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart PASSED
+2022-02-18 20:49:27,549 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 20:49:30,492 [main] INFO logger_File - Retail page is opened
+2022-02-18 20:49:30,579 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 20:49:31,179 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 20:49:32,667 [main] INFO logger_File - User Clicked on Canon Item
+2022-02-18 20:49:33,149 [main] INFO logger_File - User clicked on write review link
+2022-02-18 20:49:37,131 [main] INFO logger_File - User clicked on review continue button
+2022-02-18 20:49:37,385 [main] INFO logger_File - Review Successfully submitted
+2022-02-18 20:49:41,774 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-02-18 21:05:57,387 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:06:01,361 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:06:01,493 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:06:01,869 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:06:02,671 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:09:21,895 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:09:25,901 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:09:25,966 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:09:26,313 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:09:27,030 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:09:27,036 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:12:42,002 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:12:46,138 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:12:46,199 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:12:46,533 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:12:47,339 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:12:47,342 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:12:48,013 [main] INFO logger_File - user clicked on Edit Account information link  
+2022-02-18 21:14:51,942 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:14:56,272 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:14:56,349 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:14:56,836 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:14:57,633 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:14:57,637 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:14:58,985 [main] INFO logger_File - user clicked on Edit Account information link  
+2022-02-18 21:28:57,050 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:29:00,636 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:29:00,703 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:29:01,017 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:29:01,770 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:29:01,775 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:29:03,146 [main] INFO logger_File - user clicked on Edit Account information link  
+2022-02-18 21:29:04,100 [main] INFO logger_File - User entered info to edit affiliate user
+2022-02-18 21:29:06,594 [main] INFO logger_File - user clicked on continue button
+2022-02-18 21:30:06,920 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2022-02-18 21:30:32,488 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:30:37,431 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:30:37,547 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:30:37,901 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:30:38,958 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:30:38,960 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:31:13,356 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:31:17,789 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:31:17,860 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:31:18,200 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:31:18,748 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:31:18,749 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:32:38,928 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:32:43,155 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:32:43,270 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:32:43,577 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:32:44,442 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:32:44,446 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:32:45,628 [main] INFO logger_File - user clicked on Edit Account information link  
+2022-02-18 21:32:46,642 [main] INFO logger_File - User entered info to edit affiliate user
+2022-02-18 21:32:49,066 [main] INFO logger_File - user clicked on continue button
+2022-02-18 21:37:37,112 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:37:41,344 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:37:41,414 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:37:41,757 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:37:42,555 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:37:42,559 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:37:43,723 [main] INFO logger_File - user clicked on Edit Account information link  
+2022-02-18 21:37:56,697 [main] INFO logger_File - User entered info to edit affiliate user
+2022-02-18 21:37:59,130 [main] INFO logger_File - user clicked on continue button
+2022-02-18 21:38:57,722 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:39:01,563 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:39:01,636 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:39:01,956 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:39:02,619 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:39:02,621 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:39:03,866 [main] INFO logger_File - user clicked on Edit Account information link  
+2022-02-18 21:39:16,950 [main] INFO logger_File - User entered info to edit affiliate user
+2022-02-18 21:39:19,553 [main] INFO logger_File - user clicked on continue button
+2022-02-18 21:40:19,979 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2022-02-18 21:42:41,527 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:42:45,483 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:42:45,610 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:42:45,956 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:42:46,747 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:42:46,751 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:42:47,903 [main] INFO logger_File - user clicked on Edit Account information link  
+2022-02-18 21:43:00,932 [main] INFO logger_File - User entered info to edit affiliate user
+2022-02-18 21:43:03,408 [main] INFO logger_File - user clicked on continue button
+2022-02-18 21:43:34,545 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:43:38,507 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:43:38,626 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:43:38,944 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:43:39,728 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:43:39,734 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:43:41,758 [main] INFO logger_File - user clicked on Edit Account information link  
+2022-02-18 21:43:54,805 [main] INFO logger_File - User entered info to edit affiliate user
+2022-02-18 21:43:57,496 [main] INFO logger_File - user clicked on continue button
+2022-02-18 21:43:57,841 [main] INFO logger_File - Scenario Edit your account Information FAILED
+2022-02-18 21:46:11,751 [main] INFO logger_File - Scenario Edit your account Information Started
+2022-02-18 21:46:15,834 [main] INFO logger_File - Acutal Title is matching with expected title
+2022-02-18 21:46:15,909 [main] INFO logger_File - user clicked on My Account
+2022-02-18 21:46:16,228 [main] INFO logger_File - user clicked on Login option
+2022-02-18 21:46:17,005 [main] INFO logger_File - user clicked on the login button
+2022-02-18 21:46:17,009 [main] INFO logger_File - user is logged into the My Account Dashboard
+2022-02-18 21:46:18,502 [main] INFO logger_File - user clicked on Edit Account information link  
+2022-02-18 21:46:31,562 [main] INFO logger_File - User entered info to edit affiliate user
+2022-02-18 21:46:34,061 [main] INFO logger_File - user clicked on continue button
+2022-02-18 21:46:34,201 [main] INFO logger_File - Edit Account info Success Message is displayed!
+2022-02-18 21:46:34,476 [main] INFO logger_File - Scenario Edit your account Information PASSED
+2022-02-18 21:52:23,449 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 21:52:30,295 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:52:30,428 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:52:31,029 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:52:31,037 [main] INFO logger_File - All items are present in Desktops page
+2022-02-18 21:52:31,764 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 21:52:31,793 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 21:52:36,059 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:52:36,123 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:52:36,808 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:52:38,684 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2022-02-18 21:52:38,905 [main] INFO logger_File - User selected quantity
+2022-02-18 21:52:39,229 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 21:52:39,462 [main] INFO logger_File - HP LP is successfully added to the cart
+2022-02-18 21:52:43,854 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-02-18 21:52:43,887 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 21:52:47,347 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:52:47,468 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:52:48,080 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:52:53,501 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2022-02-18 21:52:53,850 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2022-02-18 21:52:54,157 [main] INFO logger_File - User selected quantity
+2022-02-18 21:52:54,502 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 21:52:54,823 [main] INFO logger_File - Success message displayed for Canon purchase
+2022-02-18 21:52:55,420 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart PASSED
+2022-02-18 21:52:55,444 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 21:52:59,600 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:52:59,677 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:53:00,267 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:53:01,846 [main] INFO logger_File - User Clicked on Canon Item
+2022-02-18 21:53:02,270 [main] INFO logger_File - User clicked on write review link
+2022-02-18 21:53:06,007 [main] INFO logger_File - User clicked on review continue button
+2022-02-18 21:53:06,238 [main] INFO logger_File - Review Successfully submitted
+2022-02-18 21:53:10,609 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-02-18 21:55:06,984 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 21:55:12,650 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:55:12,783 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:55:14,106 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:55:14,124 [main] INFO logger_File - All items are present in Desktops page
+2022-02-18 21:55:14,712 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 21:55:14,743 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 21:55:18,368 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:55:18,430 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:55:19,014 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:55:20,775 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2022-02-18 21:55:20,994 [main] INFO logger_File - User selected quantity
+2022-02-18 21:55:21,285 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 21:55:21,521 [main] INFO logger_File - HP LP is successfully added to the cart
+2022-02-18 21:55:21,976 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-02-18 21:55:22,007 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 21:55:25,904 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:55:25,967 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:55:26,767 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:55:28,596 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2022-02-18 21:55:28,995 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2022-02-18 21:55:29,246 [main] INFO logger_File - User selected quantity
+2022-02-18 21:55:29,526 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 21:55:29,756 [main] INFO logger_File - Success message displayed for Canon purchase
+2022-02-18 21:55:30,266 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart PASSED
+2022-02-18 21:55:30,297 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 21:55:33,655 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:55:33,724 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:55:34,398 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:55:36,052 [main] INFO logger_File - User Clicked on Canon Item
+2022-02-18 21:55:36,456 [main] INFO logger_File - User clicked on write review link
+2022-02-18 21:55:40,272 [main] INFO logger_File - User clicked on review continue button
+2022-02-18 21:55:40,852 [main] INFO logger_File - Review Successfully submitted
+2022-02-18 21:55:45,191 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
+2022-02-18 21:56:02,217 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab Started
+2022-02-18 21:56:09,306 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:56:09,407 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:56:10,147 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:56:10,155 [main] INFO logger_File - All items are present in Desktops page
+2022-02-18 21:56:10,838 [main] INFO logger_File - Scenario User verify all items are present in Desktops tab PASSED
+2022-02-18 21:56:10,923 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart Started
+2022-02-18 21:56:14,106 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:56:14,188 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:56:14,765 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:56:16,231 [main] INFO logger_File - User Added HP LP3065 to the Cart!
+2022-02-18 21:56:16,453 [main] INFO logger_File - User selected quantity
+2022-02-18 21:56:16,775 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 21:56:17,033 [main] INFO logger_File - HP LP is successfully added to the cart
+2022-02-18 21:56:17,558 [main] INFO logger_File - Scenario User add HP LP 3065 from Desktops tab to the cart PASSED
+2022-02-18 21:56:17,589 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart Started
+2022-02-18 21:56:21,134 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:56:21,201 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:56:22,090 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:56:23,514 [main] INFO logger_File - User added Canon EOS 5D to the Cart
+2022-02-18 21:56:23,859 [main] INFO logger_File - User chose 'Red' Color from drop down menu
+2022-02-18 21:56:24,122 [main] INFO logger_File - User selected quantity
+2022-02-18 21:56:24,356 [main] INFO logger_File - User clicked on the Blue Add to Cart Button!
+2022-02-18 21:56:24,629 [main] INFO logger_File - Success message displayed for Canon purchase
+2022-02-18 21:56:25,140 [main] INFO logger_File - Scenario User add Canon EOS 5Dfrom Desktops tab to the cart PASSED
+2022-02-18 21:56:25,163 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab Started
+2022-02-18 21:56:31,023 [main] INFO logger_File - Retail page is opened
+2022-02-18 21:56:31,095 [main] INFO logger_File - User clicked on Desktops tab
+2022-02-18 21:56:31,928 [main] INFO logger_File - User clicked on Show All Desktops
+2022-02-18 21:56:33,787 [main] INFO logger_File - User Clicked on Canon Item
+2022-02-18 21:56:34,106 [main] INFO logger_File - User clicked on write review link
+2022-02-18 21:56:37,876 [main] INFO logger_File - User clicked on review continue button
+2022-02-18 21:56:38,215 [main] INFO logger_File - Review Successfully submitted
+2022-02-18 21:56:42,608 [main] INFO logger_File - Scenario User add a review to Canon EOS 5D item inDesktops tab PASSED
